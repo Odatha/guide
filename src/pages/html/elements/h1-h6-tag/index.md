@@ -39,7 +39,6 @@ HTML `<h1>` to `<h6>` are supported for both HTML event attributes and global at
 The `<align>` attribute specifies the horizontal alignment of the heading. But since after HTML5 this attribute is not supported for heading tags. Instead you can use CSS properties.
 
 
-
 #### More Information:
 
 - <a href='https://www.w3schools.com/tags/tag_hn.asp'>HTML `<h1>` to `<h6>` tags: w3schools</a>
